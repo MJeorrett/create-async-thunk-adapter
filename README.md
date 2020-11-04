@@ -1,13 +1,5 @@
-# React Redux Typescript Demo
-
-Quick spike of using the following tech in combination:
-- React
-- Typescript
-- @reduxjs/toolkit
-  - createAsyncThunk
-  - createEntityAdapter
-  - createSlice
-- miragejs
+# Create Async Thunk Adapter
+This project is a quick spike of combining the `createAsyncThunk` and `createEntityAdapter` apis from @reduxjs/toolkit to create a reusable `createAsyncThunkAdapter` function.
 
 ## Running
 This project was scaffolded using create-react-app.  To run it:
